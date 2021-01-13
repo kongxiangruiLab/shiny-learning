@@ -7,3 +7,4 @@ shinyServer(function(input,output){
          main = "Histogram of waiting times")
   })
 })
+# test the github
